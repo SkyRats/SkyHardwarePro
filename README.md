@@ -1,2 +1,3 @@
-# brushless_motor_ML
-This repository contains studies about brushless motors using Machine Learning techniques.
+# SkyHardwarePro
+This repository contains a software to dimensionate the propulsion system for quadcopters MAVs.
+This software was made by the Skyrats hardware team at the Polytechnic School of the University of São Paulo - Brasil.
