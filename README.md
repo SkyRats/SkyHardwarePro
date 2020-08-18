@@ -4,4 +4,4 @@ This software was made by the Skyrats hardware team at the Polytechnic School of
 
 ## Necessary libraries
 Tkinter
-'Sudo apt-get install python3-tk'
+`Sudo apt-get install python3-tk`
