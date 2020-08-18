@@ -9,3 +9,6 @@ You will need to change the path of the files according to the save location cho
 
 ## Bibliotecas Necessárias
 https://pypi.org/project/tabulate/
+https://pypi.org/project/openapi-codec/
+https://pypi.org/project/urllib3/
+
